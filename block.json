@@ -1,0 +1,7 @@
+{
+    "name": "InitialState",
+    "description": "InitialState block",
+    "license": "ISC",
+    "version": 1,
+    "dependencies": {}
+}
